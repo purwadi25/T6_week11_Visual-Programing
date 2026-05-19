@@ -79,22 +79,22 @@ python T6_week_11.py
 # Screenshot Aplikasi
 
 ## Tampilan Awal
-![Tampilan Awal](./Screenshot/Tampilan_Awal.png)
+![Tampilan Awal](Tampilan_Awal.png)
 
 ---
 
 ## Tambah Post
-![Tambah Post](./Screenshot/Tambah_Posh.png)
+![Tambah Post](Tambah_Posh.png)
 
 ---
 
 ## Edit Post
-![Edit Post](./Screenshot/Edit_Posh.png)
+![Edit Post](Edit_Posh.png)
 
 ---
 
 ## Hapus Post
-![Hapus Post](./Screenshot/Hapus_Posh.png)
+![Hapus Post](Hapus_Posh.png)
 
 ---
 
