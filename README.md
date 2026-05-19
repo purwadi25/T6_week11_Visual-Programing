@@ -1,9 +1,9 @@
 # T6 Week 11 - Post Manager REST API
 
 ## Identitas
-- Nama : Bagas
+- Nama : :Lalu Ahmad Purwadi
 - NIM : F1D02310115
-- Kelas : Grup 15
+- Kelas : C
 
 ---
 
